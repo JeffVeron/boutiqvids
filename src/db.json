@@ -1,0 +1,28 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "caption": "Exploring nature 🌿",
+      "user": "@naturelover",
+      "likes": 420,
+      "comments": 12
+    },
+    {
+      "id": 2,
+      "src": "https://www.w3schools.com/html/movie.mp4",
+      "caption": "City lights at night ✨",
+      "user": "@urbanvibes",
+      "likes": 128,
+      "comments": 5
+    },
+    {
+      "id": 3,
+      "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "caption": "Sunset time-lapse 🌅",
+      "user": "@sunsetgazer",
+      "likes": 523,
+      "comments": 32
+    }
+  ]
+}
